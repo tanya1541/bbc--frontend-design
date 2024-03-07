@@ -1,0 +1,44 @@
+.signin{
+    border: none;
+    color: #fff;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #000;
+    height: 38px;
+    width: 200px;
+}
+.signin:hover{
+    border-bottom: 2px solid blue;
+}
+.search{
+    border: none;
+    color: #fff;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #191919;
+    height: 38px;
+    width: 200px;
+}
+.search:hover{
+    background-color: #303030;
+}
+.advertisement{
+    background-color: #eee;
+}
+.title{
+    font-weight: 600;
+}
+.linear{
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.8));
+}
+.bottom{
+    margin-top: 25%;
+}
+.newsTitle{
+    font-weight: bold;
+}
+.newsSummary{
+    font-size: 15px;
+}
